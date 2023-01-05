@@ -30,8 +30,21 @@ Review the transaction hash code associated with the validated blockchain transa
 Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details. To confirm that you have successfully created the transaction, you will save screenshots to the README.md file of your GitHub repository for this Challenge assignment.
 
 
-## Successful transaction streamlit
+## Successful Transaction on Streamlit
 
 ![](/Images/succesful_txn.jpg)
 
 - Showing a confirmed transaction paying candidate Jo.
+
+## Account Balance & Transaction Count
+
+![](/Images/wallet_balance.jpg)
+
+- Showing ETH sent out from wallet and the transaction count now up to 1.
+
+## Transaction Detail
+
+![](/Images/txn_details.jpg)
+
+- Showing which address the specified amount of ETH was paid to.
+
