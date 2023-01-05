@@ -32,4 +32,6 @@ Once you receive the transaction’s hash code, you will navigate to the Transac
 
 ## Successful transaction streamlit
 
-![](/Images/succesful_txn.jpeg)
+![](/Images/succesful_txn.jpg)
+
+- Showing a confirmed transaction paying candidate Jo.
